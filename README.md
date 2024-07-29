@@ -1,4 +1,4 @@
-![Header Image](https://github.com/Kedar1703/Kedar1703/blob/main/assets/abc.jpg)
+![Header Image](https://github.com/Kedar1703/Kedar1703/blob/main/assets/abc.png)
 
 
 <h1 align="center">Hi there, I'm Kedar Gawhankar 👋</h1>
