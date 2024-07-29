@@ -48,6 +48,6 @@
 
 <ul>
   <li>Passionate about community service and technology.</li>
-  <li>Active leader in IEEE and VESIT initiatives.</li>
+  <li>Active leader in IEEE-VESIT initiatives.</li>
   <li>Avid photographer and editor for college events.</li>
 </ul>
