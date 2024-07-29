@@ -3,7 +3,7 @@
 <h1 align="center">Hi there, I'm Kedar Gawhankar 👋</h1>
 
 <p align="center">
-  <img src="https://github.com/Kedar1703/Kedar1703/blob/main/assets/wave.gif" width="30px">
+  <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" height=250 width=350" alt="Hi Coder GIF">
 </p>
 
 <p align="center">
@@ -26,6 +26,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kedar1703&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark" alt="Kedar's GitHub Stats">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kedar1703&theme=dark" alt="Kedar's GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kedar1703&layout=compact&theme=dark" alt="Top Languages">
 </p>
 
 <h2 align="center">📫 Contact Me</h2>
@@ -48,6 +49,6 @@
 
 <ul>
   <li>Passionate about community service and technology.</li>
-  <li>Active leader in IEEE-VESIT initiatives.</li>
+  <li>Active leader in IEEE and VESIT initiatives.</li>
   <li>Avid photographer and editor for college events.</li>
 </ul>
