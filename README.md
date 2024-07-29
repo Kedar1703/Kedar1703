@@ -1,4 +1,4 @@
-![Header Image](https://github.com/Kedar1703/Kedar1703/blob/main/assets/abc.png)
+![Header Image](https://github.com/Kedar1703/Kedar1703/blob/main/abc.png)
 
 <h1 align="center">Hi there, I'm Kedar Gawhankar 👋</h1>
 
@@ -19,6 +19,13 @@
   <img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white">
+</p>
+
+<h2 align="center">📈 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kedar1703&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark" alt="Kedar's GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kedar1703&theme=dark" alt="Kedar's GitHub Streak">
 </p>
 
 <h2 align="center">📫 Contact Me</h2>
